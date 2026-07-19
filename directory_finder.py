@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import re
 import requests
 from bs4 import BeautifulSoup
@@ -2295,7 +2295,3 @@ def extract_linkedin_from_website_with_playwright(website):
         pass
 
     return ""
-
-
-
->>>>>>> 7b15be9b74c68e546b1262fa3e7150fc3fc49ffc
