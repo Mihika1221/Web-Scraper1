@@ -416,5 +416,4 @@ with partners_tab:
                 "partners.csv",
                 "text/csv",
                 use_container_width=True
-
             )
