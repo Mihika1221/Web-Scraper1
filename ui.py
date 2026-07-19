@@ -207,7 +207,7 @@ with partners_tab:
                 "partners.csv",
                 "text/csv",
                 use_container_width=True
-=======
+            )
 import time
 import pandas as pd
 import streamlit as st
