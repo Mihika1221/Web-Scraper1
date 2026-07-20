@@ -1,12 +1,9 @@
 beautifulsoup4
 lxml
-
 requests
-
 pandas
-
+streamlit
+playwright
 python-dotenv
-
 loguru
-
 validators
