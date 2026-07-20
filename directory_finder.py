@@ -4,7 +4,6 @@ import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin, urlparse, unquote
 from playwright.sync_api import sync_playwright
-from ai_extractor import extract_missing_contact_fields_with_ai
 from config import USER_AGENT, TIMEOUT
 import html
 import asyncio
