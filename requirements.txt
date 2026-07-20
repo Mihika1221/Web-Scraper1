@@ -1,0 +1,12 @@
+beautifulsoup4
+lxml
+
+requests
+
+pandas
+
+python-dotenv
+
+loguru
+
+validators
