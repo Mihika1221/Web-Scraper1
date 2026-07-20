@@ -1146,9 +1146,6 @@ def extract_linkedin_from_website_with_playwright(website):
 
     return ""
 
-
-
-=======
 import re
 import requests
 from bs4 import BeautifulSoup
